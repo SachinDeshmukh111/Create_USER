@@ -1,4 +1,4 @@
-NetExtender VPN (IDC + USO)
+**NetExtender VPN** (IDC + USO)
 
 Please follow below instructions to install &quot;NetExtender&quot; connect to VPN while working from home.
 
